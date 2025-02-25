@@ -1,4 +1,4 @@
-# Virtual-Work-Experience---Data-analysis-at-stc
+# 📊 Virtual Work Experience - Data Analysis at STC
 
 ## 🔍 Project Overview
 This project is part of the **Virtual Work Experience in Data Analysis at STC**. The goal is to analyze **user behavior** on the STC TV platform and build models to improve content recommendations.
